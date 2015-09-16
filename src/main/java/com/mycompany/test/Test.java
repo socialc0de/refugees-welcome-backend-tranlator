@@ -11,7 +11,7 @@ public class Test {
 
     public static void main(String[] args) throws IOException {
 
-        String api = "AIzaSyBksaHC12RDWOrx2mtcL7ncIRiY4PzK304";
+        String api = "INSERT GOOGLE API KEYS HERE";
         
         
         InputStreamReader isr = new InputStreamReader(System.in);
